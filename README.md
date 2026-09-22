@@ -5,9 +5,8 @@ The system uses a camera to identify whether a human is present and an Arduino U
 <img width="4096" height="2304" alt="1000123135" src="https://github.com/user-attachments/assets/0b8d5ef2-b630-4430-93c5-f365474e92c1" />
 
 ---
+<img width="4096" height="2304" alt="1000123135" src="https://github.com/user-attachments/assets/b4508dcf-65d5-4e09-9a03-202e28bc592f" />
 
----
-![1000123137](https://github.com/user-attachments/assets/56257275-b596-4956-892c-fb800f734560)
-![1000123131](https://github.com/user-attachments/assets/b4eece1f-1c99-405e-89e2-8e5212241be6)
+
 
 ---
