@@ -19,7 +19,8 @@ python python/main.py
 <img width="4096" height="2304" alt="1000123135" src="https://github.com/user-attachments/assets/0b8d5ef2-b630-4430-93c5-f365474e92c1" />
 
 ---
-<img width="4096" height="2304" alt="1000123135" src="https://github.com/user-attachments/assets/b4508dcf-65d5-4e09-9a03-202e28bc592f" />
+<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/3ca5888b-ca33-4704-97bd-724219d460d6" />
+
 
 
 
