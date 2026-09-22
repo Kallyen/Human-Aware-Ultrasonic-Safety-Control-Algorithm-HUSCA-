@@ -1,2 +1,3 @@
 # Human-Aware-Ultrasonic-Safety-Control-Algorithm-HUSCA-
 The system uses a camera to identify whether a human is present and an Arduino Uno with an HC-SR04 ultrasonic sensor to continuously measure the distance to the detected subject. Python processes both inputs and determines the system state based on a 2-foot (60.96 cm) safety threshold.
+https://mail.google.com/mail/u/1?ui=2&ik=d46127df48&attid=0.1&permmsgid=msg-f:1877046725197874235&th=1a0c9c0d323ac43b&view=fimg&realattid=1a0c9c083af3f5710053&disp=thd&attbid=ANGjdJ9368UEDRYAsRhDzsIVE4gKwED6lfbQfuEeWy-c1rk60oLJJa8I79ajt35ABB2Erngq9-kIhSMC-kTAj2_gXQ_xtL4pQGgGJimn4gQ-skocLpAQVIkLFSnx4w0&ats=2524608000000&sz=w1300-h651&auditContext=forDisplay
