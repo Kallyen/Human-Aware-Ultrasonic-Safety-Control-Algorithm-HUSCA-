@@ -21,7 +21,8 @@ python python/main.py
 ---
 <img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/3ca5888b-ca33-4704-97bd-724219d460d6" />
 
-
-
-
 ---
+
+## Hardware Electronics:
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/e5cd92e7-2f2b-4adb-bbe4-dc37b8712afd" />
+
